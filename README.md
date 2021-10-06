@@ -14,7 +14,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on My Blog, Github Project
+- 🏢
 
 - 🌱 I’m currently learning Data Science,AWS,Data Engineering 
 
@@ -24,12 +24,12 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <img width ='32px' src='https://github.com/Goupil117/Goupil117/blob/main/img/c.svg'>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<img width ='32px' src ='https://github.com/Goupil117/Goupil117/blob/main/img/cpp.svg'>
+<img width ='32px' src ='https://github.com/Goupil117/Goupil117/blob/main/img/csharp.svg'> </a>
+<img width ='32px' src ='https://github.com/Goupil117/Goupil117/blob/main/img/html.svg'> </a>
+<img width ='32px' src ='https://github.com/Goupil117/Goupil117/blob/main/img/css.svg'> </a>
+<img width ='32px' src ='https://github.com/Goupil117/Goupil117/blob/main/img/php.svg'> </a>
+<img width ='32px' src ='https://github.com/Goupil117/Goupil117/blob/main/img/python.svg'> </a>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
