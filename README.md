@@ -11,10 +11,10 @@
 <div size='20px'> Hi! My name is Goupil. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://github.com/Goupil117/Goupil117/blob/main/img/The-Good-Place-header.jpg" />
 
 
-- 🏢
+- 🏢 
 
 - 🌱 I’m currently learning Data Science,AWS,Data Engineering 
 
