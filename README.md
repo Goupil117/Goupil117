@@ -7,7 +7,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Goupil117.Goupil117)
 
 </p>
-<div size='20px'> Hi! My name is Goupil. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Philippe. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
