@@ -44,7 +44,7 @@
 
 <a href="https://github.com/Goupil117/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Goupil117&count_private=true&show_icons=true&theme=dark" />
-</a><br><br>
+</a><br>
 <a href="https://github.com/Goupil117/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goupil117&theme=dark" />
 </a>
